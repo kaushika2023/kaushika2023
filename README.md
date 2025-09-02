@@ -9,6 +9,8 @@
 **Current Focus:**
 **🔭 Developing AI-powered accessibility tools • 🤖 Autonomous systems • ☁️ Cloud automation**
 
+**Portfolio - https://kaushika-profile.online/**
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kaushika-3b0849252/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaushikabinod@gmail.com) 
 
