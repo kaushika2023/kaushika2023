@@ -32,7 +32,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kaushika2023&theme=rose_pine&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote's
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
